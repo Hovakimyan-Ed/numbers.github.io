@@ -3,7 +3,6 @@
 }
 .big-div input{
     margin: 10px 0;
-    width: 10%;
     text-align: center;
 }
 .big-div{
@@ -11,4 +10,7 @@
 }
 .btn{
     margin:10px 0;
+}
+.p1{
+    font-size: 30px;
 }
